@@ -31,13 +31,13 @@ __Note:__ iPad mini uses the same resolution (768x1024 1x, 1536x2048 2x) as 9.7"
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| 9.7" 1x | iPad, iPad 2, iPad mini | iPhone OS 3.2 | iOS 9.1 |
-| 9.7" 2x | iPad 3, iPad 4, iPad Air, iPad mini 2, iPad Air 2, iPad mini 3, iPad mini 4, iPad 5, iPad 6, iPad mini 5 | iOS 5.1 | iPadOS 14.2 |
-| 10.2" | iPad 7, iPad 8 | iPadOS 13.1 | iPadOS 14.2 |
-| 10.5" | iPad Pro (10.5-inch), iPad Air 3 | iOS 10.3.2 | iPadOS 14.2 |
-| 10.9" | iPad Air 4 | iPadOS 14.1 | iPadOS 14.2 |
-| 11" | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation) | iOS 12.1 | iPadOS 14.5 |
-| 12.9" | iPad Pro (12.9-inch), iPad Pro 12.9-inch (2nd generation), iPad Pro 12.9-inch (3rd generation), iPad Pro 12.9-inch (4th generation), iPad Pro 12.9-inch (5th generation) | iOS 9.1 | iPadOS 14.5 |
+| [9.7" 1x](iPad/9.7%22%201x) | iPad, iPad 2, iPad mini | iPhone OS 3.2 | iOS 9.1 |
+| [9.7" 2x](iPad/9.7%22%202x) | iPad 3, iPad 4, iPad Air, iPad mini 2, iPad Air 2, iPad mini 3, iPad mini 4, iPad 5, iPad 6, iPad mini 5 | iOS 5.1 | iPadOS 14.2 |
+| [10.2"](iPad/10.2%22) | iPad 7, iPad 8 | iPadOS 13.1 | iPadOS 14.2 |
+| [10.5"](iPad/10.5%22) | iPad Pro (10.5-inch), iPad Air 3 | iOS 10.3.2 | iPadOS 14.2 |
+| [10.9"](iPad/10.9%22) | iPad Air 4 | iPadOS 14.1 | iPadOS 14.2 |
+| [11"](iPad/11%22) | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation) | iOS 12.1 | iPadOS 14.5 |
+| [12.9"](iPad/12.9%22) | iPad Pro (12.9-inch), iPad Pro 12.9-inch (2nd generation), iPad Pro 12.9-inch (3rd generation), iPad Pro 12.9-inch (4th generation), iPad Pro 12.9-inch (5th generation) | iOS 9.1 | iPadOS 14.5 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size._
 
@@ -46,9 +46,9 @@ __Note:__ iPod touch uses the same wallpapers as iPhones running the same versio
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| 3.5" 1x | iPod touch, iPod touch (2nd generation), iPod touch (3rd generation) | iPhone OS 1.1 | iPhone OS 1.1 |
-| 3.5" 2x | iPod touch (4th generation) | iOS 4 | iOS 4 |
-| 4" | iPod touch (5th generation), iPod touch (6th generation), iPod touch (7th generation) | iOS 7 | iOS 12.3.1 |
+| [3.5" 1x](iPod%20touch/3.5%22%201x) | iPod touch, iPod touch (2nd generation), iPod touch (3rd generation) | iPhone OS 1.1 | iPhone OS 1.1 |
+| [3.5" 2x](iPod%20touch/3.5%22%202x) | iPod touch (4th generation) | iOS 4 | iOS 4 |
+| [4"](iPod%20touch/4%22) | iPod touch (5th generation), iPod touch (6th generation), iPod touch (7th generation) | iOS 7 | iOS 12.3.1 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size._
 
@@ -56,7 +56,7 @@ _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpa
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| Universal | N/A | iOS 14 | iOS 14 |
+| [Universal](CarPlay/Universal) | N/A | iOS 14 | iOS 14 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size._
 
