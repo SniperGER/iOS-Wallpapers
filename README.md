@@ -14,15 +14,15 @@ All wallpapers are extracted directly from `/Library/Wallpaper` within the respe
 | -- | -- | -- | -- |
 | [3.5" 1x](iPhone/3.5%22%20@1x) | iPhone 2G, iPhone 3G, iPhone 3GS | iPhone OS 1 | iOS 6 |
 | [3.5" 2x](iPhone/3.5%22%20@2x) | iPhone 4, iPhone 4S | iOS 4 | iOS 9.1 |
-| [4"](iPhone/4%22) | iPhone 5, iPhone 5s, iPhone 5c, iPhone SE | iOS 6 | iOS 14.2 |
-| [4.7"](iPhone/4.7%22) | iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE (2nd generation) | iOS 8 | iOS 14.2 |
-| [5.4"](iPhone/5.4%22) | iPhone 12 mini | iOS 14.1 | iOS 14.2 |
-| [5.5"](iPhone/5.5%22) | iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus | iOS 8 | iOS 14.2 |
-| [5.8"](iPhone/5.8%22) | iPhone X, iPhone Xs, iPhone 11 Pro | iOS 11.1 | iOS 14.2 |
-| [6.1" 2x](iPhone/6.1%22%202x) | iPhone Xr, iPhone 11 | iOS 12 | iOS 14.2 |
-| [6.1" 3x](iPhone/6.1%22%203x) | iPhone 12, iPhone 12 Pro | iOS 14.1 | iOS 14.5 |
-| [6.5"](iPhone/6.5%22) | iPhone Xs Max, iPhone 11 Pro Max | iOS 12 | iOS 14.2 |
-| [6.7"](iPhone/6.7%22) | iPhone 12 Pro Max | iOS 14.1 | iOS 14.5 |
+| [4"](iPhone/4%22) | iPhone 5, iPhone 5s, iPhone 5c, iPhone SE | iOS 6 | iOS 15 (19A5261w) |
+| [4.7"](iPhone/4.7%22) | iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE (2nd generation) | iOS 8 | iOS 15 (19A5261w) |
+| [5.4"](iPhone/5.4%22) | iPhone 12 mini | iOS 14.1 | iOS 15 (19A5261w) |
+| [5.5"](iPhone/5.5%22) | iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus | iOS 8 | iOS 15 (19A5261w) |
+| [5.8"](iPhone/5.8%22) | iPhone X, iPhone Xs, iPhone 11 Pro | iOS 11.1 | iOS 15 (19A5261w) |
+| [6.1" 2x](iPhone/6.1%22%202x) | iPhone Xr, iPhone 11 | iOS 12 | iOS 15 (19A5261w) |
+| [6.1" 3x](iPhone/6.1%22%203x) | iPhone 12, iPhone 12 Pro | iOS 14.1 | iOS 15 (19A5261w) |
+| [6.5"](iPhone/6.5%22) | iPhone Xs Max, iPhone 11 Pro Max | iOS 12 | iOS 15 (19A5261w) |
+| [6.7"](iPhone/6.7%22) | iPhone 12 Pro Max | iOS 14.1 | iOS 15 (19A5261w) |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size._
 
@@ -56,7 +56,7 @@ _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpa
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| [Universal](CarPlay/Universal) | N/A | iOS 14 | iOS 14 |
+| [Universal](CarPlay/Universal) | N/A | iOS 14 | iOS 15 (19A5261w) |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size._
 
