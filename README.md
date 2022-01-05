@@ -6,7 +6,7 @@ An archive of every iOS wallpaper officially released by Apple
 - [iPod touch](#ipod-touch)
 - [CarPlay](#carplay)
 
-This repository aims to preserve every iOS wallpaper released by Apple, all the way from iPhone OS 1.0 up to (currently) iOS/iPadOS 14.6.
+This repository aims to preserve every iOS wallpaper released by Apple, all the way from iPhone OS 1.0 up to (currently) iOS/iPadOS 15.0.
 Wallpapers are sorted by device class, followed by the screen size they are made for and the iOS/iPadOS version they have first been introduced in.
 
 If there are multiple screen sizes (such as 3.5" or 6.1"), the screen scale is added to the end. Wallpapers are also split into "Stills" and "Live" (previously "Motion").
@@ -19,13 +19,13 @@ All wallpapers are extracted directly from `/Library/Wallpaper` within the respe
 | -- | -- | -- | -- |
 | [3.5" 1x](iPhone/3.5%22%20@1x) | iPhone 2G, iPhone 3G, iPhone 3GS | iPhone OS 1 | iOS 6 |
 | [3.5" 2x](iPhone/3.5%22%20@2x) | iPhone 4, iPhone 4S | iOS 4 | iOS 9.1 |
-| [4"](iPhone/4%22) | iPhone 5, iPhone 5s, iPhone 5c, iPhone SE | iOS 6 | iOS 15 (19A5261w) |
+| [4.0"](iPhone/4.0%22) | iPhone 5, iPhone 5s, iPhone 5c, iPhone SE | iOS 6 | iOS 15 (19A5261w) |
 | [4.7"](iPhone/4.7%22) | iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE (2nd generation) | iOS 8 | iOS 15 (19A5261w) |
 | [5.4"](iPhone/5.4%22) | iPhone 12 mini, iPhone 13 mini | iOS 14.1 | iOS 15 |
 | [5.5"](iPhone/5.5%22) | iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus | iOS 8 | iOS 15 (19A5261w) |
 | [5.8"](iPhone/5.8%22) | iPhone X, iPhone Xs, iPhone 11 Pro | iOS 11.1 | iOS 15 (19A5261w) |
-| [6.1" 2x](iPhone/6.1%22%202x) | iPhone Xr, iPhone 11 | iOS 12 | iOS 15 (19A5261w) |
-| [6.1" 3x](iPhone/6.1%22%203x) | iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro | iOS 14.1 | iOS 15 |
+| [6.1" 2x](iPhone/6.1%22%20%402x) | iPhone Xr, iPhone 11 | iOS 12 | iOS 15 (19A5261w) |
+| [6.1" 3x](iPhone/6.1%22%20%403x) | iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro | iOS 14.1 | iOS 15 |
 | [6.5"](iPhone/6.5%22) | iPhone Xs Max, iPhone 11 Pro Max | iOS 12 | iOS 15 (19A5261w) |
 | [6.7"](iPhone/6.7%22) | iPhone 12 Pro Max, iPhone 13 Pro Max | iOS 14.1 | iOS 15 |
 
@@ -42,7 +42,7 @@ __Note:__ iPad mini (5th generation and older) uses the same resolution (768x102
 | [10.2"](iPad/10.2%22) | iPad 7, iPad 8, iPad 9 | iPadOS 13.1 | iPadOS 15 (19A5261w) |
 | [10.5"](iPad/10.5%22) | iPad Pro (10.5-inch), iPad Air 3 | iOS 10.3.2 | iPadOS 15 (19A5261w) |
 | [10.9"](iPad/10.9%22) | iPad Air 4 | iPadOS 14.1 | iPadOS 15 (19A5261w) |
-| [11"](iPad/11%22) | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation) | iOS 12.1 | iPadOS 15 (19A5261w) |
+| [11.0"](iPad/11.0%22) | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation) | iOS 12.1 | iPadOS 15 (19A5261w) |
 | [12.9"](iPad/12.9%22) | iPad Pro (12.9-inch), iPad Pro 12.9-inch (2nd generation), iPad Pro 12.9-inch (3rd generation), iPad Pro 12.9-inch (4th generation), iPad Pro 12.9-inch (5th generation) | iOS 9.1 | iPadOS 15 (19A5261w) |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
@@ -52,9 +52,9 @@ __Note:__ iPod touch uses the same wallpapers as iPhones running the same versio
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| [3.5" 1x](iPod%20touch/3.5%22%201x) | iPod touch, iPod touch (2nd generation), iPod touch (3rd generation) | iPhone OS 1.1 | iPhone OS 1.1 |
-| [3.5" 2x](iPod%20touch/3.5%22%202x) | iPod touch (4th generation) | iOS 4 | iOS 4 |
-| [4"](iPod%20touch/4%22) | iPod touch (5th generation), iPod touch (6th generation), iPod touch (7th generation) | iOS 7 | iOS 12.3.1 |
+| [3.5" 1x](iPod%20touch/3.5%22%20%401x) | iPod touch, iPod touch (2nd generation), iPod touch (3rd generation) | iPhone OS 1.1 | iPhone OS 1.1 |
+| [3.5" 2x](iPod%20touch/3.5%22%20%402x) | iPod touch (4th generation) | iOS 4 | iOS 4 |
+| [4.0"](iPod%20touch/4.0%22) | iPod touch (5th generation), iPod touch (6th generation), iPod touch (7th generation) | iOS 7 | iOS 12.3.1 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
 
