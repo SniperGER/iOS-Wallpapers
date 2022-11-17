@@ -42,8 +42,8 @@ __Note:__ iPad mini (5th generation and older) uses the same resolution (768x102
 | [10.2"](iPad/10.2%22) | iPad 7, iPad 8, iPad 9 | iPadOS 13.1 | iPadOS 15 (19A5261w) |
 | [10.5"](iPad/10.5%22) | iPad Pro (10.5-inch), iPad Air 3 | iOS 10.3.2 | iPadOS 15 (19A5261w) |
 | [10.9"](iPad/10.9%22) | iPad Air 4, iPad Air 5 | iPadOS 14.1 | iPadOS 15.4 |
-| [11.0"](iPad/11.0%22) | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation) | iOS 12.1 | iPadOS 15 (19A5261w) |
-| [12.9"](iPad/12.9%22) | iPad Pro (12.9-inch), iPad Pro 12.9-inch (2nd generation), iPad Pro 12.9-inch (3rd generation), iPad Pro 12.9-inch (4th generation), iPad Pro 12.9-inch (5th generation) | iOS 9.1 | iPadOS 15 (19A5261w) |
+| [11.0"](iPad/11.0%22) | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation), iPad Pro 11-inch (4th generation) | iOS 12.1 | iPadOS 16.1 |
+| [12.9"](iPad/12.9%22) | iPad Pro (12.9-inch), iPad Pro 12.9-inch (2nd generation), iPad Pro 12.9-inch (3rd generation), iPad Pro 12.9-inch (4th generation), iPad Pro 12.9-inch (5th generation) , iPad Pro 12.9-inch (6th generation) | iOS 9.1 | iPadOS 16.1 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
 
