@@ -13,21 +13,25 @@ If there are multiple screen sizes (such as 3.5" or 6.1"), the screen scale is a
 
 All wallpapers are extracted directly from `/Library/Wallpaper` within the respective IPSW files and have not been touched in any way. Thumbnails and `default`/`poster` files have been removed to save space.
 
+> A note regarding iOS 16 wallpapers: Starting with iOS 16, wallpapers are composed of multiple layers (eg. the default "WWDC 2022" wallpaper has a "background", "floating" and "foreground" layer) that create the new parallax effects.  
+These wallpapers are rendered in realtime, which results in no "untouched" image files included in the device firmware files.  
+Instead, these wallpapers are now composed manually for this collection, with otherwise untouched assets.
+
 ## Included Wallpapers
 ### iPhone
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| [3.5" 1x](iPhone/3.5%22%20@1x) | iPhone 2G, iPhone 3G, iPhone 3GS | iPhone OS 1 | iOS 6 |
-| [3.5" 2x](iPhone/3.5%22%20@2x) | iPhone 4, iPhone 4S | iOS 4 | iOS 9.1 |
-| [4.0"](iPhone/4.0%22) | iPhone 5, iPhone 5s, iPhone 5c, iPhone SE | iOS 6 | iOS 15 (19A5261w) |
-| [4.7"](iPhone/4.7%22) | iPhone 6, iPhone 6s, iPhone 7, iPhone 8, iPhone SE (2nd generation), iPhone SE (3rd generation) | iOS 8 | iOS 15.4 |
-| [5.4"](iPhone/5.4%22) | iPhone 12 mini, iPhone 13 mini | iOS 14.1 | iOS 15.4 |
-| [5.5"](iPhone/5.5%22) | iPhone 6 Plus, iPhone 6s Plus, iPhone 7 Plus, iPhone 8 Plus | iOS 8 | iOS 15 (19A5261w) |
-| [5.8"](iPhone/5.8%22) | iPhone X, iPhone Xs, iPhone 11 Pro | iOS 11.1 | iOS 15 (19A5261w) |
-| [6.1" 2x](iPhone/6.1%22%20%402x) | iPhone Xr, iPhone 11 | iOS 12 | iOS 15 (19A5261w) |
-| [6.1" 3x](iPhone/6.1%22%20%403x) | iPhone 12, iPhone 12 Pro, iPhone 13, iPhone 13 Pro | iOS 14.1 | iOS 15.4 |
-| [6.5"](iPhone/6.5%22) | iPhone Xs Max, iPhone 11 Pro Max | iOS 12 | iOS 15 (19A5261w) |
-| [6.7"](iPhone/6.7%22) | iPhone 12 Pro Max, iPhone 13 Pro Max | iOS 14.1 | iOS 15.4 |
+| [3.5" 1x](iPhone/3.5%22%20@1x) | <ul><li>iPhone 2G</li><li>iPhone 3G</li><li>iPhone 3GS</li></ul> | iPhone OS 1 | iOS 6 |
+| [3.5" 2x](iPhone/3.5%22%20@2x) | <ul><li>iPhone 4</li><li>iPhone 4s</li></ul> | iOS 4 | iOS 9.1 |
+| [4.0"](iPhone/4.0%22) | <ul><li>iPhone 5</li><li>iPhone 5s</li><li>iPhone 5c</li><li>iPhone SE</li></ul> | iOS 6 | iOS 15 (19A5261w) |
+| [4.7"](iPhone/4.7%22) | <ul><li>iPhone 6</li><li>iPhone 6s</li><li>iPhone 7</li><li>iPhone 8</li><li>iPhone SE (2nd generation)</li><li>iPhone SE (3rd generation)</li></ul> | iOS 8 | iOS 16 |
+| [5.4"](iPhone/5.4%22) | <ul><li>iPhone 12 mini</li><li>iPhone 13 mini</li></ul> | iOS 14.1 | iOS 16 |
+| [5.5"](iPhone/5.5%22) | <ul><li>iPhone 6 Plus</li><li>iPhone 6s Plus</li><li>iPhone 7 Plus</li><li>iPhone 8 Plus</li></ul> | iOS 8 | iOS 16 |
+| [5.8"](iPhone/5.8%22) | <ul><li>iPhone X</li><li>iPhone XS</li><li>iPhone 11 Pro</li></ul> | iOS 11.1 | iOS 16 |
+| [6.1" 2x](iPhone/6.1%22%20%402x) | <ul><li>iPhone XR</li><li>iPhone 11</li></ul> | iOS 12 | iOS 16 |
+| [6.1" 3x](iPhone/6.1%22%20%403x) | <ul><li>iPhone 12</li><li>iPhone 12 Pro</li><li>iPhone 13</li><li>iPhone 13 Pro</li><li>iPhone 14</li><li>iPhone 14 Pro</li></ul> | iOS 14.1 | iOS 16 |
+| [6.5"](iPhone/6.5%22) | <ul><li>iPhone XS Max</li><li>iPhone 11 Pro Max</li></ul> | iOS 12 | iOS 16 |
+| [6.7"](iPhone/6.7%22) | <ul><li>iPhone 12 Pro Max</li><li>iPhone 13 Pro Max</li><li>iPhone 14 Plus</li><li>iPhone 14 Pro Max</li></ul> | iOS 14.1 | iOS 16 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
 
@@ -36,14 +40,14 @@ __Note:__ iPad mini (5th generation and older) uses the same resolution (768x102
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| [7.9" 2x](iPad/7.9%22%20@2x) | iPad mini 6 | iPadOS 15 | iPadOS 15 |
-| [9.7" 1x](iPad/9.7%22%20@1x) | iPad, iPad 2, iPad mini | iPhone OS 3.2 | iOS 9.1 |
-| [9.7" 2x](iPad/9.7%22%20@2x) | iPad 3, iPad 4, iPad Air, iPad mini 2, iPad Air 2, iPad mini 3, iPad mini 4, iPad 5, iPad 6, iPad mini 5 | iOS 5.1 | iPadOS 15 (19A5261w) |
-| [10.2"](iPad/10.2%22) | iPad 7, iPad 8, iPad 9 | iPadOS 13.1 | iPadOS 15 (19A5261w) |
-| [10.5"](iPad/10.5%22) | iPad Pro (10.5-inch), iPad Air 3 | iOS 10.3.2 | iPadOS 15 (19A5261w) |
-| [10.9"](iPad/10.9%22) | iPad Air 4, iPad Air 5, iPad 10 | iPadOS 14.1 | iPadOS 16.1 |
-| [11.0"](iPad/11.0%22) | iPad Pro (11-inch), iPad Pro 11-inch (2nd generation), iPad Pro 11-inch (3rd generation), iPad Pro 11-inch (4th generation) | iOS 12.1 | iPadOS 16.1 |
-| [12.9"](iPad/12.9%22) | iPad Pro (12.9-inch), iPad Pro 12.9-inch (2nd generation), iPad Pro 12.9-inch (3rd generation), iPad Pro 12.9-inch (4th generation), iPad Pro 12.9-inch (5th generation) , iPad Pro 12.9-inch (6th generation) | iOS 9.1 | iPadOS 16.1 |
+| [7.9" 2x](iPad/7.9%22%20@2x) | <ul><li>iPad mini 6</li></ul> | iPadOS 15 | iPadOS 16.1 |
+| [9.7" 1x](iPad/9.7%22%20@1x) | <ul><li>iPad</li><li>iPad 2</li><li>iPad mini</li></ul> | iPhone OS 3.2 | iOS 9.1 |
+| [9.7" 2x](iPad/9.7%22%20@2x) | <ul><li>iPad 3</li><li>iPad 4</li><li>iPad Air</li><li>iPad mini 2</li><li>iPad Air 2</li><li>iPad mini 3</li><li>iPad mini 4</li><li>iPad 5</li><li>iPad 6</li><li>iPad mini 5</li></ul> | iOS 5.1 | iPadOS 16.1 |
+| [10.2"](iPad/10.2%22) | <ul><li>iPad 7</li><li>iPad 8</li><li>iPad 9</li></ul> | iPadOS 13.1 | iPadOS 16.1 |
+| [10.5"](iPad/10.5%22) | <ul><li>iPad Pro (10.5-inch)</li><li>iPad Air 3</li></ul> | iOS 10.3.2 | iPadOS 16.1 |
+| [10.9"](iPad/10.9%22) | <ul><li>iPad Air 4</li><li>iPad Air 5</li><li>iPad 10</li> | iPadOS 14.1 | iPadOS 16.1 |
+| [11.0"](iPad/11.0%22) | <ul><li>iPad Pro (11-inch)</li><li>iPad Pro 11-inch (2nd generation)</li><li>iPad Pro 11-inch (3rd generation)</li><li>iPad Pro 11-inch (4th generation)</li></ul> | iOS 12.1 | iPadOS 16.1 |
+| [12.9"](iPad/12.9%22) | <ul><li>iPad Pro (12.9-inch)</li><li>iPad Pro 12.9-inch (2nd generation)</li><li>iPad Pro 12.9-inch (3rd generation)</li><li>iPad Pro 12.9-inch (4th generation)</li><li>iPad Pro 12.9-inch (5th generation)</li><li>iPad Pro 12.9-inch (6th generation)</li></ul> | iOS 9.1 | iPadOS 16.1 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
 
@@ -52,9 +56,9 @@ __Note:__ iPod touch uses the same wallpapers as iPhones running the same versio
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| [3.5" 1x](iPod%20touch/3.5%22%20%401x) | iPod touch, iPod touch (2nd generation), iPod touch (3rd generation) | iPhone OS 1.1 | iPhone OS 1.1 |
-| [3.5" 2x](iPod%20touch/3.5%22%20%402x) | iPod touch (4th generation) | iOS 4 | iOS 4 |
-| [4.0"](iPod%20touch/4.0%22) | iPod touch (5th generation), iPod touch (6th generation), iPod touch (7th generation) | iOS 7 | iOS 12.3.1 |
+| [3.5" 1x](iPod%20touch/3.5%22%20%401x) | <ul><li>iPod touch</li><li>iPod touch (2nd generation)</li><li>iPod touch (3rd generation)</li></ul> | iPhone OS 1.1 | iPhone OS 1.1 |
+| [3.5" 2x](iPod%20touch/3.5%22%20%402x) | <ul><li>iPod touch (4th generation)</li></ul> | iOS 4 | iOS 4 |
+| [4.0"](iPod%20touch/4.0%22) | <ul><li>iPod touch (5th generation)</li><li>iPod touch (6th generation)</li><li>iPod touch (7th generation)</li> | iOS 7 | iOS 12.3.1 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
 
@@ -62,7 +66,7 @@ _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpa
 
 | Screen Size | Devices | Initial OS | Current OS\* |
 | -- | -- | -- | -- |
-| [Universal](CarPlay/Universal) | N/A | iOS 14 | iOS 15 (19A5261w) |
+| [Universal](CarPlay/Universal) | N/A | iOS 14 | iOS 16 |
 
 _\* Current OS shows the latest version of iOS/iPadOS that introduced new wallpapers for this screen size. Beta releases are marked with their respective build numbers._
 
@@ -75,3 +79,4 @@ All of the wallpapers included are © 2007 - 2022 Apple Inc. and their respectiv
 * Apple, Inc: For creating iOS/iPadOS and these wallpapers
 * Евгений Богун (Evgeny Bogun): For creating the [iOS](https://photos.google.com/share/AF1QipNi8VN2pw2Ya_xCV8eFgzEZmiXDy1-GwhXbqFtvXoH3HypF10as9puV8FdoVZpOZA?key=WkZjQTIxQTM5a01oZkNUYTE2ZllKTVJKZk1CMTR3) and [macOS](https://photos.google.com/share/AF1QipNNQyeVrqxBdNmBkq9ILswizuj-RYJFNt5GlxJZ90Y6hx0okrVSLKSnmFFbX7j5Mg?key=RV8tSXVJVGdfS1RIQUI0Q3RZZVhlTmw0WmhFZ2V3) wallpaper albums on Google Photos. Seriously, check it out! These albums contain a lot of inofficial promo wallpapers which you'll never see here.
 * [AR7](https://twitter.com/AR72014): For creating (and collecting) awesome wallpapers!
+* [Trevor Kay](https://twitter.com/trevormkay): For creating [screensizes.app](https://screensizes.app), which has helped me keep track of all those screen resolutions.
